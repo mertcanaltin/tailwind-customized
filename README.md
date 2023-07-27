@@ -14,8 +14,6 @@ Tailwind Customized is a custom JavaScript plugin for Tailwind CSS that enhances
 
 - **Autocomplete and Code Suggestions:** Integrate with popular code editors to offer autocomplete and code suggestions for Tailwind CSS classes, making development faster and more efficient.
 
-_(You can add more features or functionalities here if your plugin includes additional functionality.)_
-
 ## Installation
 
 To use Tailwind Customized in your Tailwind CSS project, you need to install it via npm. Run the following command:
