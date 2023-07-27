@@ -38,12 +38,13 @@ module.exports = {
 
 1.  Now, you can use the custom features provided by Tailwind Customized in your project's stylesheets:
 
-
-`<!-- Apply custom styles to a div -->
+```html
+<!-- Apply custom styles to a div -->
 <div class="custom-class">This is a customized div using Tailwind Customized.</div>
 
 <!-- Add dynamic class based on a condition -->
-<div :class="dynamicClass">This text's class is dynamic based on a condition.</div>`
+<div :class="dynamicClass">This text's class is dynamic based on a condition.</div>
+```
 
 Customization
 -------------
